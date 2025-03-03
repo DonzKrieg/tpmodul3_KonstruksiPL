@@ -1,0 +1,10 @@
+C:\Konstruksi PL\modul3_103022330150\modul3_103022330150\bin\Debug\modul3_103022330150.exe.config
+C:\Konstruksi PL\modul3_103022330150\modul3_103022330150\bin\Debug\modul3_103022330150.exe
+C:\Konstruksi PL\modul3_103022330150\modul3_103022330150\bin\Debug\modul3_103022330150.pdb
+C:\Konstruksi PL\modul3_103022330150\modul3_103022330150\obj\Debug\modul3_103022330150.csproj.AssemblyReference.cache
+C:\Konstruksi PL\modul3_103022330150\modul3_103022330150\obj\Debug\modul3_103022330150.SignIn.resources
+C:\Konstruksi PL\modul3_103022330150\modul3_103022330150\obj\Debug\modul3_103022330150.Properties.Resources.resources
+C:\Konstruksi PL\modul3_103022330150\modul3_103022330150\obj\Debug\modul3_103022330150.csproj.GenerateResource.cache
+C:\Konstruksi PL\modul3_103022330150\modul3_103022330150\obj\Debug\modul3_103022330150.csproj.CoreCompileInputs.cache
+C:\Konstruksi PL\modul3_103022330150\modul3_103022330150\obj\Debug\modul3_103022330150.exe
+C:\Konstruksi PL\modul3_103022330150\modul3_103022330150\obj\Debug\modul3_103022330150.pdb
